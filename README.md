@@ -1,0 +1,1 @@
+# Measuring-the-pulse-of-prosperity-An-index-of-an-economic-freedom-analysis
