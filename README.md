@@ -47,6 +47,100 @@ This dataset provides an economic profile of 185 countries based on a variety of
 | `Public Debt (% of GDP)`     | Public debt as a percentage of GDP                                      |
 
 
+🔹 Economic Freedom
+
+How easy it is for people and businesses to make economic decisions without too much government control. This includes freedom to own property, trade, invest, work, and start businesses.
+
+🏠 Property Rights
+
+The legal right to own, use, or sell things like land, houses, or businesses. Strong property rights mean no one (including the government) can take your property without a legal reason.
+
+⚖️ Judicial Effectiveness
+
+How well the court system works. If courts are fair, quick, and honest, people trust the legal system. This helps businesses and individuals feel secure.
+
+🧾 Government Integrity
+
+Whether a government is honest or corrupt. High integrity means government officials don’t take bribes, follow laws, and act fairly.
+
+💰 Tax Burden
+
+How much people and businesses have to pay in taxes. It includes:
+
+Income Tax: What individuals pay from their salary.
+
+Corporate Tax: What companies pay on profits.
+
+Tax Burden as % of GDP: How much tax a country collects compared to its total economy.
+
+🏛️ Government Spending
+
+How much money the government spends on things like healthcare, education, defense, etc. High spending is okay if it’s used wisely, but overspending can cause debt.
+
+📉 Fiscal Health
+
+How well a government manages its money. Good fiscal health means it doesn’t borrow too much and can pay its bills.
+
+🏢 Business Freedom
+
+How easy it is to open and run a business. Fewer rules, less paperwork, and faster approvals mean better business freedom.
+
+👷 Labor Freedom
+
+How flexible the job market is. It includes things like:
+
+How easy it is to hire or fire workers
+
+If there are rules about minimum wage or work hours
+
+💵 Monetary Freedom
+
+Whether people can trust the country’s money. It includes:
+
+Stable prices (low inflation)
+
+No unfair price controls (like fixing prices by law)
+
+🌍 Trade Freedom
+
+How easily a country can trade with others. Fewer taxes on imports/exports and fewer restrictions mean more trade freedom.
+
+📈 Investment Freedom
+
+How easy it is for people or businesses to invest their money, either in their own country or abroad. A country with high investment freedom doesn’t have many rules blocking investors.
+
+🏦 Financial Freedom
+
+How open and competitive a country’s banking and finance system is. People can borrow, save, and invest easily, and the government doesn’t control banks too much.
+
+🌐 GDP (Gross Domestic Product)
+
+The total value of all goods and services produced in a country in one year. It’s a basic measure of a country’s economy.
+
+👥 GDP per Capita
+
+GDP divided by the number of people in a country. It shows how much economic value each person creates, on average.
+
+💸 PPP (Purchasing Power Parity)
+
+A way to compare countries by adjusting for the cost of living. For example, $1 buys more in India than in the USA. PPP helps us understand the true value of money in different countries.
+
+📊 Inflation
+
+How much prices go up over time. If inflation is high, your money buys less. Low inflation is a sign of a healthy economy.
+
+📉 Unemployment
+
+The percentage of people who want to work but don’t have a job. Lower unemployment usually means a stronger economy.
+
+🌍 FDI (Foreign Direct Investment)
+
+When businesses or people from one country invest in another country. More FDI often means more jobs and growth.
+
+📉 Public Debt (% of GDP)
+
+How much money the government owes, compared to the size of its economy. Lower debt is usually better, but it depends on how the money is used.
+
 **Charts**
 
 🔹 Top 40 and Bottom Ranking Countries by Economic Freedom (2022)
