@@ -88,3 +88,13 @@ Countries with higher GDP per capita  generally have higher monetary freedom, su
 Top Performers : Are rapidly developing economies showing high GDP growth (>5%).
 
 Bottom Performers: Have shrinking economies due to war, sanctions, or economic mismanagement.
+
+**STORY**
+
+This dashboard presents a global overview of economic freedom and related indicators for 185 countries in 2022. At a glance, we can see that countries like Singapore, Switzerland, and Ireland rank among the top performers in economic freedom, while nations like Venezuela, North Korea, and Sudan rank at the bottom. As we explore different charts, we notice a strong connection between low unemployment and high economic freedom. For example, countries with low unemployment like Japan and Qatar tend to perform better overall. In contrast, high unemployment is common in lower-ranking countries.
+
+We also see that financial freedom plays an important role. Economies with more open financial systems, like the USA and UK, score higher, while restricted countries like Zimbabwe and Iran score much lower. Population data shows that highly populated countries like India and China face larger economic management challenges. Still, some of them, like India and Vietnam, show strong 5-year GDP growth, highlighting their development efforts.
+
+Another key insight comes from inflation rates. Hyperinflation is a major problem in countries like Venezuela and Zimbabwe, while more stable countries keep inflation under control. The dashboard also shows a correlation between GDP per capita and monetary freedom—wealthier nations often enjoy more stable and open monetary policies. Overall, the dashboard helps us understand how factors like unemployment, inflation, growth, and freedom work together to shape a country's economic performance.
+
+
