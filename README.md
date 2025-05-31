@@ -47,7 +47,7 @@ This dataset provides an economic profile of 185 countries based on a variety of
 | `Public Debt (% of GDP)`     | Public debt as a percentage of GDP                                      |
 
 
-** charts**
+**Charts**
 
 🔹 Top 40 and Bottom Ranking Countries by Economic Freedom (2022)
 
@@ -57,45 +57,31 @@ Bottom Countries - Suffer from political instability, weak institutions, poor fi
 
 🔹 Index Score Based on Unemployment Rate
 
-Countries like South Africa, Palestine, and Libya show very high unemployment (>30%), contributing to lower economic freedom scores.
-
-Low unemployment rates (e.g., in Qatar and Japan) often correspond with higher economic stability.
+Countries like South Africa, Palestine, and Libya show very high unemployment (>30%), contributing to lower economic freedom scores.Low unemployment rates (e.g., in Qatar and Japan) often correspond with higher economic stability.
 
 🔹 Index Score Based on Financial Freedom
 
-Financially restricted countries (e.g., Zimbabwe, Venezuela, North Korea) have very low scores due to state-controlled banking and capital markets.
-
-Developed economies with open financial systems (e.g., USA, UK) have higher financial freedom.
+Financially restricted countries (e.g., Zimbabwe, Venezuela, North Korea) have very low scores due to state-controlled banking and capital markets.Developed economies with open financial systems (e.g., USA, UK) have higher financial freedom.
 
 🔹 Index Score Based on Population
 
-Most populous countries: China, India, USA, Indonesia.
-
-These large populations often require more robust systems for managing economic freedom and governance.
+Most populous countries: China, India, USA, Indonesia.These large populations often require more robust systems for managing economic freedom and governance.
 
 🔹 5-Year GDP Growth Rate Insights
 
-Countries like Ireland, Bangladesh, Ethiopia, and Vietnam have shown strong economic growth over five years.
-
-Negative or minimal growth is seen in countries affected by conflict or poor economic management .
+Countries like Ireland, Bangladesh, Ethiopia, and Vietnam have shown strong economic growth over five years.Negative or minimal growth is seen in countries affected by conflict or poor economic management .
 
 🔹 Inflation Rates by Country
 
-Hyperinflation is observed in Venezuela, Zimbabwe, Sudan, with inflation rates in the thousands (%).
-
-Stable inflation (under 5%) is seen in many developed economies like Japan, Switzerland, and the USA.
+Hyperinflation is observed in Venezuela, Zimbabwe, Sudan, with inflation rates in the thousands (%).Stable inflation (under 5%) is seen in many developed economies like Japan, Switzerland, and the USA.
 
 🔹 Correlation Between Inflation and Unemployment
 
-Many countries  exhibit both high inflation and high unemployment, indicating economic distress.
-
-Countries like Switzerland and Japan show low values for both, indicating economic stability.
+Many countries  exhibit both high inflation and high unemployment, indicating economic distress.Countries like Switzerland and Japan show low values for both, indicating economic stability.
 
 🔹 Correlation Between GDP per Capita (PPP) and Monetary Freedom
 
-Countries with higher GDP per capita  generally have higher monetary freedom, suggesting better-managed inflation and currency policies.
-
-Countries with low GDP per capita  tend to have lower monetary freedom.
+Countries with higher GDP per capita  generally have higher monetary freedom, suggesting better-managed inflation and currency policies.Countries with low GDP per capita  tend to have lower monetary freedom.
 
 🔹 Top and Bottom 40 Countries by GDP Growth Rate
 
